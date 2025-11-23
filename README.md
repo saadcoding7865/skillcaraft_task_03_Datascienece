@@ -9,5 +9,7 @@ Evaluated accuracy and generated a confusion matrix
 Visualized the decision tree
 
 How to Run
+
 task_03.py
+
 Dataset path must be updated before running.
